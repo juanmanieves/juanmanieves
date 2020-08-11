@@ -10,7 +10,7 @@
 📫 You can reach me through:
 
 - [My Linkedin](https://www.linkedin.com/in/juanmarianieves/)
-- [My presentation website](https://www.juanmarianieves.com)
+- [My presentation website](http://www.juanmarianieves.com)
 
 
 These are my highlighted Open Source projects here (comming soon):
