@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**juanmanieves/juanmanieves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+⚡ I'm Juan Maria Nieves , from Barcelona. I'm a , entrepeneur, writer and speaker.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 My code is mainly focused in 🌐 Web develoment: Front-End with ASP MVC, JavaScript, and backend with C# and the .NET Framework, although I do a lot of this and that with other langs, frameworks and tools like Laravel. 
+
+💬 Ask me if you need a developer for your enterprise. 
+
+📫 You can reach me through:
+
+- [My Linkedin](https://www.linkedin.com/in/juanmarianieves/)
+- [My presentation website](https://www.juanmarianieves.com)
+
+
+These are my highlighted Open Source projects here (comming soon):
